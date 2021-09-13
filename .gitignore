@@ -1,0 +1,9 @@
+*
+!**/
+!*.cpp
+!*.hpp
+!*.ipp
+!*.pl
+!contralign.params.*
+!.gitignore
+!Makefile
